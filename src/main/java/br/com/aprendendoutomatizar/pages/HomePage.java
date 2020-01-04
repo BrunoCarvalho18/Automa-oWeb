@@ -3,7 +3,6 @@ package br.com.aprendendoutomatizar.pages;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import br.com.aprendendoautomatizar.core.BasePage;
 import br.com.aprendendoautomatizar.core.Driver;
 
